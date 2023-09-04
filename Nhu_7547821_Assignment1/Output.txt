@@ -1,0 +1,300 @@
+===================================================================
+processing taskId: 1
+description      : image processing
+uncertainty      : 6
+difficulty       : 10
+workers          : 7,0,8
+ 
+-------------------------------------------------------------------
+Trial: workers   : 7
+-------------------------------------------------------------------
+ 
+The average performance is 52.8282
+Assignment of Task 1 to worker 7 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 0
+-------------------------------------------------------------------
+ 
+The average performance is 44.2423
+Assignment of Task 1 to worker 0 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 8
+-------------------------------------------------------------------
+ 
+The average performance is 34.4141
+Assignment of Task 1 to worker 8 fails
+ 
+===================================================================
+processing taskId: 2
+description      : natural language processing
+uncertainty      : 7
+difficulty       : 15
+workers          : 8,1,3
+ 
+-------------------------------------------------------------------
+Trial: workers   : 8
+-------------------------------------------------------------------
+ 
+The average performance is 29.8282
+Assignment of Task 2 to worker 8 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 1
+-------------------------------------------------------------------
+ 
+The average performance is 69.0704
+Assignment of Task 2 to worker 1 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 3
+-------------------------------------------------------------------
+ 
+The average performance is 58.2423
+Assignment of Task 2 to worker 3 succeeds
+ 
+===================================================================
+processing taskId: 3
+description      : computer vision
+uncertainty      : 5
+difficulty       : 10
+workers          : 0,1
+ 
+-------------------------------------------------------------------
+Trial: workers   : 0
+-------------------------------------------------------------------
+ 
+The average performance is 43.8282
+Assignment of Task 3 to worker 0 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 1
+-------------------------------------------------------------------
+ 
+The average performance is 73.2423
+Assignment of Task 3 to worker 1 succeeds
+ 
+===================================================================
+processing taskId: 4
+description      : friend recommendation
+uncertainty      : 1
+difficulty       : 19
+workers          : 2,8,5
+ 
+-------------------------------------------------------------------
+Trial: workers   : 2
+-------------------------------------------------------------------
+ 
+The average performance is 39.5155
+Assignment of Task 4 to worker 2 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 8
+-------------------------------------------------------------------
+ 
+The average performance is 23.3436
+Assignment of Task 4 to worker 8 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 5
+-------------------------------------------------------------------
+ 
+The average performance is 24.1014
+Assignment of Task 4 to worker 5 fails
+ 
+===================================================================
+processing taskId: 5
+description      : knowledge discovery
+uncertainty      : 9
+difficulty       : 12
+workers          : 0,1,6
+ 
+-------------------------------------------------------------------
+Trial: workers   : 0
+-------------------------------------------------------------------
+ 
+The average performance is 43.4845
+Assignment of Task 5 to worker 0 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 1
+-------------------------------------------------------------------
+ 
+The average performance is 72.8986
+Assignment of Task 5 to worker 1 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 6
+-------------------------------------------------------------------
+ 
+The average performance is 61.4845
+Assignment of Task 5 to worker 6 succeeds
+ 
+===================================================================
+processing taskId: 6
+description      : data analytics
+uncertainty      : 8
+difficulty       : 11
+workers          : 3,9
+ 
+-------------------------------------------------------------------
+Trial: workers   : 3
+-------------------------------------------------------------------
+ 
+The average performance is 62.6564
+Assignment of Task 6 to worker 3 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 9
+-------------------------------------------------------------------
+ 
+The average performance is 73.4845
+Assignment of Task 6 to worker 9 succeeds
+ 
+===================================================================
+processing taskId: 7
+description      : seed selection
+uncertainty      : 6
+difficulty       : 14
+workers          : 9,5,6,3
+ 
+-------------------------------------------------------------------
+Trial: workers   : 9
+-------------------------------------------------------------------
+ 
+The average performance is 69.6564
+Assignment of Task 7 to worker 9 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 5
+-------------------------------------------------------------------
+ 
+The average performance is 31.1718
+Assignment of Task 7 to worker 5 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 6
+-------------------------------------------------------------------
+ 
+The average performance is 58.2423
+Assignment of Task 7 to worker 6 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 3
+-------------------------------------------------------------------
+ 
+The average performance is 58.8282
+Assignment of Task 7 to worker 3 succeeds
+ 
+===================================================================
+processing taskId: 8
+description      : data mining
+uncertainty      : 7
+difficulty       : 15
+workers          : 1,2,4
+ 
+-------------------------------------------------------------------
+Trial: workers   : 1
+-------------------------------------------------------------------
+ 
+The average performance is 69.0704
+Assignment of Task 8 to worker 1 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 2
+-------------------------------------------------------------------
+ 
+The average performance is 46
+Assignment of Task 8 to worker 2 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 4
+-------------------------------------------------------------------
+ 
+The average performance is 47.8282
+Assignment of Task 8 to worker 4 fails
+ 
+===================================================================
+processing taskId: 9
+description      : pattern recognition
+uncertainty      : 5
+difficulty       : 20
+workers          : 0,3,4
+ 
+-------------------------------------------------------------------
+Trial: workers   : 0
+-------------------------------------------------------------------
+ 
+The average performance is 33.8282
+Assignment of Task 9 to worker 0 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 3
+-------------------------------------------------------------------
+ 
+The average performance is 52.4141
+Assignment of Task 9 to worker 3 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 4
+-------------------------------------------------------------------
+ 
+The average performance is 42
+Assignment of Task 9 to worker 4 fails
+ 
+===================================================================
+processing taskId: 10
+description      : clustering
+uncertainty      : 2
+difficulty       : 12
+workers          : 2,1,7,5
+ 
+-------------------------------------------------------------------
+Trial: workers   : 2
+-------------------------------------------------------------------
+ 
+The average performance is 46.9296
+Assignment of Task 10 to worker 2 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 1
+-------------------------------------------------------------------
+ 
+The average performance is 70
+Assignment of Task 10 to worker 1 succeeds
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 7
+-------------------------------------------------------------------
+ 
+The average performance is 49.1718
+Assignment of Task 10 to worker 7 fails
+ 
+ 
+-------------------------------------------------------------------
+Trial: workers   : 5
+-------------------------------------------------------------------
+ 
+The average performance is 31.5155
+Assignment of Task 10 to worker 5 fails
+ 
